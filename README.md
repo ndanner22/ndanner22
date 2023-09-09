@@ -4,6 +4,6 @@
 
 I'm Neil and I've recently started my path as a software engineer and am currently working in Python. I am currently taking a software engineering course through HyperionDev. I am excited to learn as much as I can from the GitHub community and to start collaborating!
 
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning JavaScript
 - 🤔 I’m looking for help with finding the best resources for self-learning
 - 📫 Feel free to reach out if you need help debugging or have suggestions for good learning articles: ndanner22@gmail.com
