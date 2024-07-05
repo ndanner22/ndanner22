@@ -4,7 +4,7 @@
 
 [Portfolio Site](https://neil-danner.netlify.app/)
 
-I'm Neil and I've recently started my path as a software engineer and am currently working in JavaScript. I am excited to learn as much as I can from the GitHub community and to start collaborating!
+I'm Neil and I am a software engineer currently working in JavaScript. I am excited to learn as much as I can from the GitHub community and to start collaborating!
 
 - 🌱 I’m currently learning TypeScript and built my portfolio site using React and TypeScript
 - 🤔 I’m looking for help with finding the best resources for continued self-learning
